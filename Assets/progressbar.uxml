@@ -1,0 +1,3 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:ProgressBar value="2" title="Slime Status" high-value="4" style="-unity-background-image-tint-color: rgb(75, 236, 77);" />
+</ui:UXML>
